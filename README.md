@@ -12,7 +12,7 @@ The data was downloaded from the Citibike program in a CSV file.  The file conta
 
 
 ### Results
-Visualization of the various measures can be found in the Tableau story that is posted on the Tableau Public site. [link to dashboard](https://public.tableau.com/app/profile/kellie.brabec/viz/Week15Challenge-CitiBikeRideAnalysis/RideAnalysis#1)
+Visualization of the various measures can be found in the Tableau story that is posted on the Tableau Public site. [link to Tableau Public](https://public.tableau.com/app/profile/kellie.brabec/viz/Week15Challenge-CitiBikeRideAnalysis/RideAnalysis#1)
 
 #### Total Number of Rides: 
 There were a total of 2,344,224 rides in August 2019. 
@@ -21,40 +21,40 @@ There were a total of 2,344,224 rides in August 2019.
 443,865 rides were taken by customers
 1,900,359 rides were taken by subscribers 
 
-INSERT LINK TO IMAGE
+![Subscriber vs Customer Breakdown]((https://github.com/klbrabec/BC_WK_15_Challenge_CitiBike_Analysis/blob/main/CustomerType.JPG))
 
 #### Gender Breakdown: 
 Unknown: 225,521 
 Female: 588,431
 Male: 1,530,272 
 
-INSERT LINK TO IMAGE 
+![Rides by Gender ](https://github.com/klbrabec/BC_WK_15_Challenge_CitiBike_Analysis/blob/main/Rides%20by%20Gender.JPG)
 
 #### Ride Analysis: 
 The majority of rides were under 30 minutes long, with the majority of of those being under 10 minutes. 
 
-INSERT LINK TO IMAGE
+![Ride Duration ](https://github.com/klbrabec/BC_WK_15_Challenge_CitiBike_Analysis/blob/main/RideDuration.JPG)
 
 ####Ride Distribution by Gender:
 The majority of all rides were under 15 minutes, regardless of gender.
 
-INSERT LINK TO IMAGE 
+![Ride Distribution by Gender](https://github.com/klbrabec/BC_WK_15_Challenge_CitiBike_Analysis/blob/main/RideDurationbyGender.JPG)
 
 #### Ride Analysis by Weekday: 
 Rides generally occurred during standard commuting hours, Monday through Friday from 6am to 10am, and Monday through Friday from 4pm through 8pm.  There was an outlier on Wednesday evenings, and it is worth doing further analysis to determine why there were substantially less outbound rides during this time period. 
 On the weekends, rides were primarily during noncommuting hours, lending support to the theory that these days are more tourist focused or recreational rides.
 
-INSERT LINK TO IMAGE 
+![Ride Analysis by Weekday (Heatmap)](https://github.com/klbrabec/BC_WK_15_Challenge_CitiBike_Analysis/blob/main/RidesbyWeekdayHeatMap.JPG)
 
 #### Ride Analysis by Weekday by Gender: 
 This view of the data reinforces that the majority of riders are male, and rides are used primarily during commuting hours.  
 
-INSERT LINK TO IMAGE 
+![Rides by Weekday by Gender (Heatmap) ](https://github.com/klbrabec/BC_WK_15_Challenge_CitiBike_Analysis/blob/main/RidesbyWeekdayandGenderHeatmap.JPG)
 
 #### Ride Analysis by Subscriber Type and Gender: 
 The primary subscriber demographic is male, with the highest number of rides taken by this group on Thursday afternoons during the commuting period.  
 
-INSERT LINK TO IMAGE 
+![Subscriber Type by Gender, Weekday (Heatmap)  ](https://github.com/klbrabec/BC_WK_15_Challenge_CitiBike_Analysis/blob/main/RidesbyWeekdayandGenderHeatmap.JPG)
 
 ### Summary and Suggestions 
 The program appears to be well received and used by male identifying customers.  It does appear to have a deficit in non-male identifying users, and this could be due to any number of factors, that could be mitigated if they are identified. 
