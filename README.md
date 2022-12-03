@@ -21,7 +21,7 @@ There were a total of 2,344,224 rides in August 2019.
 443,865 rides were taken by customers
 1,900,359 rides were taken by subscribers 
 
-![Subscriber vs Customer Breakdown]((https://github.com/klbrabec/BC_WK_15_Challenge_CitiBike_Analysis/blob/main/CustomerType.JPG))
+![Subscriber vs Customer Breakdown](https://github.com/klbrabec/BC_WK_15_Challenge_CitiBike_Analysis/blob/main/CustomerType.JPG)
 
 #### Gender Breakdown: 
 Unknown: 225,521 
